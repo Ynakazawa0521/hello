@@ -7,3 +7,4 @@ if now.hour < 12:
     print("おはようございます！")
 else:
     print("こんにちは！")
+    print("さようなら")
