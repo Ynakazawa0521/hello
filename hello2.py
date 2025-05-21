@@ -10,4 +10,4 @@ else:
     print("さようなら")
     Print("コメントを追加")
     ptint("おはよう")
-    print("はろうはろう")
+    ptint("おはよう")
