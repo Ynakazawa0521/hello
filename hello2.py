@@ -8,3 +8,6 @@ if now.hour < 12:
 else:
     print("こんにちは！")
     print("さようなら")
+    Print("コメントを追加")
+    ptint("おはよう")
+    print("はろうはろう")
